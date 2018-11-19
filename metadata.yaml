@@ -1,0 +1,33 @@
+_repo: Samtliche-Werke-1-2-Rodion-Raskolnikoff-Schuld-und-Suhne_58238
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mereschkowski, Dmitri
+    gutenberg_agent_id: '49849'
+    url: http://www.gutenberg.org/2009/agents/49849
+  translator:
+    agent_name: Rahsin, E. K.
+    gutenberg_agent_id: '49851'
+    url: http://www.gutenberg.org/2009/agents/49851
+creator:
+  author:
+    agent_name: Dostojewski, Fjodor Michailowitsch
+    gutenberg_agent_id: '49848'
+    url: http://www.gutenberg.org/2009/agents/49848
+  editor:
+    agent_name: Bruck, Arthur Moeller van den
+    gutenberg_agent_id: '49850'
+    url: http://www.gutenberg.org/2009/agents/49850
+description: ''
+gutenberg_issued: '2018-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58238'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sämtliche Werke 1-2: Rodion Raskolnikoff (Schuld und Sühne)'
+url: http://www.gutenberg.org/ebooks/58238
