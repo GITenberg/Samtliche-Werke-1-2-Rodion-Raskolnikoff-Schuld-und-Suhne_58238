@@ -1,5 +1,5 @@
 _repo: Samtliche-Werke-1-2-Rodion-Raskolnikoff-Schuld-und-Suhne_58238
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Mereschkowski, Dmitri
@@ -9,6 +9,9 @@ contributor:
     agent_name: Rahsin, E. K.
     gutenberg_agent_id: '49851'
     url: http://www.gutenberg.org/2009/agents/49851
+covers:
+- cover_type: archival
+  image_path: 58238-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Dostojewski, Fjodor Michailowitsch
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '49850'
     url: http://www.gutenberg.org/2009/agents/49850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58238#Samtliche-Werke-1-2-Rodion-Raskolnikoff-Schuld-und-Suhne
 gutenberg_issued: '2018-11-05'
 gutenberg_type: Text
 identifiers:
